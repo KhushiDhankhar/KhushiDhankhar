@@ -62,6 +62,8 @@
 
 ![Snake animation](https://github.com/KhushiDhankhar/KhushiDhankhar/blob/output/github-contribution-grid-snake.svg)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiDhankhar&theme=tokyonight)
+
 ---
 
 ## 🏆 Achievements
