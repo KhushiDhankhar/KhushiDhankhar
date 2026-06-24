@@ -56,15 +56,17 @@
 ## Contribution Activity Graph 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhushiDhankhar&theme=tokyo-night)](https://github.com/KhushiDhankhar)
 
+## Total contribution History
+![Snake animation](https://github.com/KhushiDhankhar/KhushiDhankhar/blob/output/github-contribution-grid-snake.svg)
+
+## Profile Summmary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiDhankhar&theme=tokyonight)
+
 ## 📈 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiDhankhar\&layout=compact\&theme=tokyonight)
 
-![Snake animation](https://github.com/KhushiDhankhar/KhushiDhankhar/blob/output/github-contribution-grid-snake.svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiDhankhar&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiDhankhar&theme=tokyonight)
 
 
 ---
