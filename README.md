@@ -64,6 +64,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiDhankhar&theme=tokyonight)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiDhankhar&theme=tokyonight)
+
+
 ---
 
 ## 🏆 Achievements
