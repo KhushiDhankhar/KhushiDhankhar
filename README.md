@@ -68,8 +68,8 @@
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/khushiDhankhar
-* LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/khushi-dhankhar-20130525a/)
+* GitHub: [khushi](https://github.com/khushiDhankhar)
+* LinkedIn: [khushi](https://www.linkedin.com/in/khushi-dhankhar-20130525a/)
 * Email: khushu915@gmail.com
 
 ---
