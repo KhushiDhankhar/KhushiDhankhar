@@ -53,9 +53,14 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KhushiDhankhar\&theme=tokyonight)
 
+## Contribution Activity Graph 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/KhushiDhankhar)
+
 ## 📈 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiDhankhar\&layout=compact\&theme=tokyonight)
+
+![Snake animation](https://github.com/KhushiDhankhar/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
