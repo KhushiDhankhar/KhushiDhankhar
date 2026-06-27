@@ -1,6 +1,10 @@
 ## Hi there 👋
 # Hi there, I'm Khushi 👋
 
+<p align="center">
+  <img src="banner.png" alt="Khushi Dhankhar Banner" width="100%" />
+</p>
+
 ## 🚀 About Me
 
 * 🎓 Final Year B.Tech CSE Student
