@@ -2,7 +2,7 @@
 # Hi there, I'm Khushi 👋
 
 <p align="center">
-  <img src="banner.png" alt="Khushi Dhankhar Banner" width="100%" />
+  <img src="banner.png" alt="Khushi Dhankhar Banner" width="100%" height="80%/>
 </p>
 
 ## 🚀 About Me
