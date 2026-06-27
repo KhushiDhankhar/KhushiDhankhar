@@ -5,12 +5,14 @@
 </p>
 <hr>
 <br>
-## 🚀 About Me
 
-* 🎓 Final Year B.Tech CSE Student
+## 🌸 About Me
+
+* 🎓 B.Tech CSE Graduate
 * 💻 Passionate about Software Development, Cybersecurity, and Open Source
 * 🌱 Currently learning Advanced Subdomain Enumeration and System Design
 * 🎯 Seeking opportunities in Software Engineering
+*🚀 Always learning and improving one project at a time
 
 ---
 
