@@ -4,7 +4,6 @@
   <img src="banner.png" alt="Khushi Dhankhar Banner" width="100%" height="350px"/>
 </p>
 <hr>
-<br>
 
 ## 🌸 About Me
 
