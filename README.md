@@ -3,6 +3,9 @@
 <p align="center">
   <img src="banner.png" alt="Khushi Dhankhar Banner" width="100%" height="300px"/>
 </p>
+<hr>
+<br>
+
 
 ## 🚀 About Me
 
