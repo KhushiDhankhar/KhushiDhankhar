@@ -12,8 +12,13 @@
 * 🌱 Currently learning Advanced Subdomain Enumeration and System Design
 * 🎯 Seeking opportunities in Software Engineering
 *🚀 Always learning and improving one project at a time
+
 ---
+<p align = "center">
+  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://khushiwritesandshines.netlify.app/)
+
+</p>
 ---
 
 ---
