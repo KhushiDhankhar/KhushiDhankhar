@@ -13,9 +13,7 @@
 * 🎯 Seeking opportunities in Software Engineering
 *🚀 Always learning and improving one project at a time
 ---
-<p align = "center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)]([https://khushiwritesandshines.netlify..app](https://khushiwritesandshines.netlify.app/))
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://khushiwritesandshines.netlify.app/)
 ---
 
 ---
