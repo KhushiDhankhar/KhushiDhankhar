@@ -85,15 +85,17 @@
 
 ## 📫 Connect With Me
 
-* GitHub: [khushi](https://github.com/khushiDhankhar)
-* LinkedIn: [khushi](https://www.linkedin.com/in/khushi-dhankhar-20130525a/)
-* Email: khushu915@gmail.com
+*  **GitHub:** [khushi](https://github.com/khushiDhankhar)
+* 💼 **LinkedIn:** [khushi](https://www.linkedin.com/in/khushi-dhankhar-20130525a/)
+* 📫 **Email:** khushu915@gmail.com
+* 🌐 **Portfolio:** https://your-site-name.netlify.app
 
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KhushiDhankhar&label=Profile%20Views&style=for-the-badge&color=ff69b4" alt="Profile Views" />
 </p>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://your-site-name.netlify.app)
 ---
 
 ⭐ Thanks for visiting my profile!
