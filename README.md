@@ -12,6 +12,11 @@
 * 🌱 Currently learning Advanced Subdomain Enumeration and System Design
 * 🎯 Seeking opportunities in Software Engineering
 *🚀 Always learning and improving one project at a time
+---
+<p align = "center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)]([https://khushiwritesandshines.netlify..app](https://khushiwritesandshines.netlify.app/))
+</p>
+---
 
 ---
 
@@ -88,14 +93,12 @@
 *  **GitHub:** [khushi](https://github.com/khushiDhankhar)
 * 💼 **LinkedIn:** [khushi](https://www.linkedin.com/in/khushi-dhankhar-20130525a/)
 * 📫 **Email:** khushu915@gmail.com
-* 🌐 **Portfolio:** https://your-site-name.netlify.app
+* 🌐 **Portfolio:** https://khushiwritesandshines.netlify.app
 
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KhushiDhankhar&label=Profile%20Views&style=for-the-badge&color=ff69b4" alt="Profile Views" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://your-site-name.netlify.app)
----
 
 ⭐ Thanks for visiting my profile!
