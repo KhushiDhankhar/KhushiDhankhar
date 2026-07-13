@@ -91,7 +91,7 @@
 
 *  **GitHub:** [khushi](https://github.com/khushiDhankhar)
 * 💼 **LinkedIn:** [khushi](https://www.linkedin.com/in/khushi-dhankhar-20130525a/)
-* 📫 **Email:** khushu915@gmail.com
+* 📫 **Email:** dhankharkhushi04@gmail.com
 * 🌐 **Portfolio:** https://khushiwritesandshines.netlify.app
 
 ---
