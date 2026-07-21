@@ -19,20 +19,34 @@
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 ### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Web Development
+### Cybersecurity & Networking
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-121212?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![DNS](https://img.shields.io/badge/DNS-0052CC?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-0A66C2?style=for-the-badge&logo=fortinet&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+### Libraries & Tools
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4CAF50?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFB000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Core CS
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-0052CC?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge)
+![STL](https://img.shields.io/badge/C++_STL-00599C?style=for-the-badge)
 
 ---
 
