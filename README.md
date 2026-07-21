@@ -52,19 +52,23 @@
 
 ## 📌 Featured Projects
 
-### 🔍 Hybrid Subdomain Enumerator
+### 🔐 CipherVault
+A secure encryption toolkit for protecting sensitive files and text using modern cryptographic techniques with an intuitive interface. (LIVE)
 
-* Brute-force enumeration
-* Bing search integration
-* crt.sh certificate transparency scraping
-* DNS resolution and live host checking
+### 🔒 AES-CBC Encryption
+Implemented AES encryption in CBC (Cipher Block Chaining) mode for secure file and text encryption/decryption with proper key and IV handling.
 
-### 🎵 Song Recommendation System
+### 🌐 Network Utility
+A collection of networking tools for tasks such as DNS lookup, IP information, connectivity testing, and basic network diagnostics.
 
-* Machine Learning based recommendation engine
-* Built using Python, Pandas and Scikit-learn
+### 🛡️ Compromise Antivirus
+A lightweight antivirus prototype that scans files for suspicious signatures and helps detect potential malware for educational purposes.
 
+### 📡 Port Scanner
+A multithreaded TCP port scanner that efficiently identifies open ports and active network services for reconnaissance and security analysis.
 
+### 🔑 Password Hash & DeHash
+A utility for generating secure password hashes and demonstrating password verification and hash lookup concepts using multiple hashing algorithms.
 
 ---
 
